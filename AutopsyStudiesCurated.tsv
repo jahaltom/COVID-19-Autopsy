@@ -1,0 +1,123 @@
+run_accession	study_accession	experiment_desc	Tissue	disease	pool no	ID	Tissue-disease
+SRR12340107	SRP261138	GSM4698570: caseP4-placenta1; Homo sapiens; RNA-Seq	placenta	COVID-19		P4	placenta-COVID-19
+SRR12340105	SRP261138	GSM4698568: caseP3-placenta1; Homo sapiens; RNA-Seq	placenta	COVID-19		P3	placenta-COVID-19
+SRR12340106	SRP261138	GSM4698569: caseP3-placenta2; Homo sapiens; RNA-Seq	placenta	COVID-19		P3	placenta-COVID-19
+SRR12340103	SRP261138	GSM4698566: caseP2-placenta1; Homo sapiens; RNA-Seq	placenta	COVID-19		P2	placenta-COVID-19
+SRR12340104	SRP261138	GSM4698567: caseP2-placenta2; Homo sapiens; RNA-Seq	placenta	COVID-19		P2	placenta-COVID-19
+SRR12340101	SRP261138	GSM4698564: caseP1-placenta1; Homo sapiens; RNA-Seq	placenta	COVID-19		P1	placenta-COVID-19
+SRR12340102	SRP261138	GSM4698565: caseP1-placenta2; Homo sapiens; RNA-Seq	placenta	COVID-19		P1	placenta-COVID-19
+SRR12340100	SRP261138	GSM4698563: caseJ-lung; Homo sapiens; RNA-Seq	lung	COVID-19	pool166	J	lung-COVID-19
+SRR12340099	SRP261138	GSM4698562: caseI-lung; Homo sapiens; RNA-Seq	lung	COVID-19	pool166	I	lung-COVID-19
+SRR12340098	SRP261138	GSM4698561: caseH-lung; Homo sapiens; RNA-Seq	lung	COVID-19	pool166	H	lung-COVID-19
+SRR12340097	SRP261138	GSM4698560: caseG-lung; Homo sapiens; RNA-Seq	lung	COVID-19	pool166	G	lung-COVID-19
+SRR12340096	SRP261138	GSM4698559: caseF-lung; Homo sapiens; RNA-Seq	lung	COVID-19	pool166	F	lung-COVID-19
+SRR12340095	SRP261138	GSM4698558: caseE-lung; Homo sapiens; RNA-Seq	lung	COVID-19	pool166	E	lung-COVID-19
+SRR12340094	SRP261138	GSM4698557: caseD-lung; Homo sapiens; RNA-Seq	lung	COVID-19	pool161	D	lung-COVID-19
+SRR11772390	SRP261138	GSM4546608: NegControl1; Homo sapiens; RNA-Seq	lung	Non-Covid-19	pool159	Control	lung-Non-Covid-19
+SRR11772391	SRP261138	GSM4546609: NegControl2; Homo sapiens; RNA-Seq	lung	Non-Covid-19	pool159	Control	lung-Non-Covid-19
+SRR11772392	SRP261138	GSM4546610: NegControl3; Homo sapiens; RNA-Seq	lung	Non-Covid-19	pool159	Control	lung-Non-Covid-19
+SRR11772393	SRP261138	GSM4546611: NegControl4; Homo sapiens; RNA-Seq	lung	Non-Covid-19	pool159	Control	lung-Non-Covid-19
+SRR11772394	SRP261138	GSM4546612: NegControl5; Homo sapiens; RNA-Seq	lung	Non-Covid-19	pool159	Control	lung-Non-Covid-19
+SRR12340093	SRP261138	GSM4698556: caseC-lung; Homo sapiens; RNA-Seq	lung	COVID-19	pool161	C	lung-COVID-19
+SRR12340092	SRP261138	GSM4698555: caseB-lung; Homo sapiens; RNA-Seq	lung	COVID-19	pool161	B	lung-COVID-19
+SRR12340091	SRP261138	GSM4698554: caseA-lung; Homo sapiens; RNA-Seq	lung	COVID-19	pool161	A	lung-COVID-19
+SRR12340086	SRP261138	GSM4698549: case9-lung1; Homo sapiens; RNA-Seq	lung	COVID-19	pool161	9	lung-COVID-19
+SRR12340087	SRP261138	GSM4698550: case9-lung2; Homo sapiens; RNA-Seq	lung	COVID-19	pool161	9	lung-COVID-19
+SRR12340088	SRP261138	GSM4698551: case9-lung3; Homo sapiens; RNA-Seq	lung	COVID-19	pool161	9	lung-COVID-19
+SRR12340089	SRP261138	GSM4698552: case9-lung4; Homo sapiens; RNA-Seq	lung	COVID-19	pool161	9	lung-COVID-19
+SRR12340090	SRP261138	GSM4698553: case9-lung5; Homo sapiens; RNA-Seq	lung	COVID-19	pool161	9	lung-COVID-19
+SRR12340078	SRP261138	GSM4698541: case8-bowel1; Homo sapiens; RNA-Seq	bowel	COVID-19	pool161	8	bowel-COVID-19
+SRR12340079	SRP261138	GSM4698542: case8-heart1; Homo sapiens; RNA-Seq	heart	COVID-19	pool161	8	heart-COVID-19
+SRR12340080	SRP261138	GSM4698543: case8-liver1; Homo sapiens; RNA-Seq	liver	COVID-19	pool161	8	liver-COVID-19
+SRR12340081	SRP261138	GSM4698544: case8-lung1; Homo sapiens; RNA-Seq	lung	COVID-19	pool161	8	lung-COVID-19
+SRR12340082	SRP261138	GSM4698545: case8-lung2; Homo sapiens; RNA-Seq	lung	COVID-19	pool161	8	lung-COVID-19
+SRR12340083	SRP261138	GSM4698546: case8-lung3; Homo sapiens; RNA-Seq	lung	COVID-19	pool161	8	lung-COVID-19
+SRR12340084	SRP261138	GSM4698547: case8-lung4; Homo sapiens; RNA-Seq	lung	COVID-19	pool161	8	lung-COVID-19
+SRR12340085	SRP261138	GSM4698548: case8-lung5; Homo sapiens; RNA-Seq	lung	COVID-19	pool161	8	lung-COVID-19
+SRR12340073	SRP261138	GSM4698536: case7-lung1; Homo sapiens; RNA-Seq	lung	COVID-19	pool161	7	lung-COVID-19
+SRR12340074	SRP261138	GSM4698537: case7-lung2; Homo sapiens; RNA-Seq	lung	COVID-19	pool161	7	lung-COVID-19
+SRR12340075	SRP261138	GSM4698538: case7-lung3; Homo sapiens; RNA-Seq	lung	COVID-19	pool161	7	lung-COVID-19
+SRR12340076	SRP261138	GSM4698539: case7-lung4; Homo sapiens; RNA-Seq	lung	COVID-19	pool161	7	lung-COVID-19
+SRR12340077	SRP261138	GSM4698540: case7-lung5; Homo sapiens; RNA-Seq	lung	COVID-19	pool161	7	lung-COVID-19
+SRR12340068	SRP261138	GSM4698531: case6-lung1; Homo sapiens; RNA-Seq	lung	COVID-19	pool161	6	lung-COVID-19
+SRR12340069	SRP261138	GSM4698532: case6-lung2; Homo sapiens; RNA-Seq	lung	COVID-19	pool161	6	lung-COVID-19
+SRR12340070	SRP261138	GSM4698533: case6-lung3; Homo sapiens; RNA-Seq	lung	COVID-19	pool161	6	lung-COVID-19
+SRR12340071	SRP261138	GSM4698534: case6-lung4; Homo sapiens; RNA-Seq	lung	COVID-19	pool161	6	lung-COVID-19
+SRR12340072	SRP261138	GSM4698535: case6-lung5; Homo sapiens; RNA-Seq	lung	COVID-19	pool161	6	lung-COVID-19
+SRR11772385	SRP261138	GSM4546603: case5-bowel1; Homo sapiens; RNA-Seq	bowel	COVID-19	pool160	5	bowel-COVID-19
+SRR11772382	SRP261138	GSM4546600: case5-fat1; Homo sapiens; RNA-Seq	fat	COVID-19	pool160	5	fat-COVID-19
+SRR11772388	SRP261138	GSM4546606: case5-heart1; Homo sapiens; RNA-Seq	heart	COVID-19	pool160	5	heart-COVID-19
+SRR11772387	SRP261138	GSM4546605: case5-kidney1; Homo sapiens; RNA-Seq	kidney	COVID-19	pool160	5	kidney-COVID-19
+SRR11772386	SRP261138	GSM4546604: case5-liver1; Homo sapiens; RNA-Seq	liver	COVID-19	pool160	5	liver-COVID-19
+SRR11772378	SRP261138	GSM4546596: case5-lung1; Homo sapiens; RNA-Seq	lung	COVID-19	pool160	5	lung-COVID-19
+SRR11772379	SRP261138	GSM4546597: case5-lung2; Homo sapiens; RNA-Seq	lung	COVID-19	pool160	5	lung-COVID-19
+SRR11772380	SRP261138	GSM4546598: case5-lung3; Homo sapiens; RNA-Seq	lung	COVID-19	pool160	5	lung-COVID-19
+SRR11772381	SRP261138	GSM4546599: case5-lung4; Homo sapiens; RNA-Seq	lung	COVID-19	pool160	5	lung-COVID-19
+SRR11772383	SRP261138	GSM4546601: case5-lung5; Homo sapiens; RNA-Seq	lung	COVID-19	pool160	5	lung-COVID-19
+SRR11772389	SRP261138	GSM4546607: case5-marrow1; Homo sapiens; RNA-Seq	marrow	COVID-19	pool160	5	marrow-COVID-19
+SRR11772384	SRP261138	GSM4546602: case5-skin1; Homo sapiens; RNA-Seq	skin	COVID-19	pool160	5	skin-COVID-19
+SRR11772377	SRP261138	GSM4546595: case4-bowel1; Homo sapiens; RNA-Seq	bowel	COVID-19	pool160	4	bowel-COVID-19
+SRR11772372	SRP261138	GSM4546590: case4-heart1; Homo sapiens; RNA-Seq	heart	COVID-19	pool160	4	heart-COVID-19
+SRR11772376	SRP261138	GSM4546594: case4-heart2; Homo sapiens; RNA-Seq	heart	COVID-19	pool160	4	heart-COVID-19
+SRR11772375	SRP261138	GSM4546593: case4-kidney1; Homo sapiens; RNA-Seq	kidney	COVID-19	pool160	4	kidney-COVID-19
+SRR11772373	SRP261138	GSM4546591: case4-liver1; Homo sapiens; RNA-Seq	liver	COVID-19	pool160	4	liver-COVID-19
+SRR11772371	SRP261138	GSM4546589: case4-lung1; Homo sapiens; RNA-Seq	lung	COVID-19	pool160	4	lung-COVID-19
+SRR11772374	SRP261138	GSM4546592: case4-lung2; Homo sapiens; RNA-Seq	lung	COVID-19	pool160	4	lung-COVID-19
+SRR11772369	SRP261138	GSM4546587: case3-heart1; Homo sapiens; RNA-Seq	heart	COVID-19	pool159	3	heart-COVID-19
+SRR12340067	SRP261138	GSM4698530: case3-liver1; Homo sapiens; RNA-Seq	liver	COVID-19	pool162	3	liver-COVID-19
+SRR11772368	SRP261138	GSM4546586: case3-lung1; Homo sapiens; RNA-Seq	lung	COVID-19	pool159	3	lung-COVID-19
+SRR11772370	SRP261138	GSM4546588: case3-lung2; Homo sapiens; RNA-Seq	lung	COVID-19	pool160	3	lung-COVID-19
+SRR11772367	SRP261138	GSM4546585: case2-heart1; Homo sapiens; RNA-Seq	heart	COVID-19	pool159	2	heart-COVID-19
+SRR11772365	SRP261138	GSM4546583: case2-jejunum1; Homo sapiens; RNA-Seq	jejunum	COVID-19	pool159	2	jejunum-COVID-19
+SRR11772363	SRP261138	GSM4546581: case2-lung1; Homo sapiens; RNA-Seq	lung	COVID-19	pool159	2	lung-COVID-19
+SRR11772364	SRP261138	GSM4546582: case2-lung2; Homo sapiens; RNA-Seq	lung	COVID-19	pool159	2	lung-COVID-19
+SRR11772366	SRP261138	GSM4546584: case2-lung3; Homo sapiens; RNA-Seq	lung	COVID-19	pool159	2	lung-COVID-19
+SRR12340066	SRP261138	GSM4698529: case12-liver1; Homo sapiens; RNA-Seq	liver	COVID-19	pool162	12	liver-COVID-19
+SRR12340061	SRP261138	GSM4698524: case11-bowel1; Homo sapiens; RNA-Seq	bowel	COVID-19	pool161	11	bowel-COVID-19
+SRR12340062	SRP261138	GSM4698525: case11-kidney1; Homo sapiens; RNA-Seq	kidney	COVID-19	pool161	11	kidney-COVID-19
+SRR12340063	SRP261138	GSM4698526: case11-lung1; Homo sapiens; RNA-Seq	lung	COVID-19	pool161	11	lung-COVID-19
+SRR12340064	SRP261138	GSM4698527: case11-lung2; Homo sapiens; RNA-Seq	lung	COVID-19	pool161	11	lung-COVID-19
+SRR12340065	SRP261138	GSM4698528: case11-lung3; Homo sapiens; RNA-Seq	lung	COVID-19	pool161	11	lung-COVID-19
+SRR12340057	SRP261138	GSM4698520: case10-liver1; Homo sapiens; RNA-Seq	liver	COVID-19	pool162	10	liver-COVID-19
+SRR12340058	SRP261138	GSM4698521: case10-lung1; Homo sapiens; RNA-Seq	lung	COVID-19	pool161	10	lung-COVID-19
+SRR12340059	SRP261138	GSM4698522: case10-lung2; Homo sapiens; RNA-Seq	lung	COVID-19	pool161	10	lung-COVID-19
+SRR12340060	SRP261138	GSM4698523: case10-lung3; Homo sapiens; RNA-Seq	lung	COVID-19	pool161	10	lung-COVID-19
+SRR11772362	SRP261138	GSM4546580: case1-heart1; Homo sapiens; RNA-Seq	heart	COVID-19	pool159	1	heart-COVID-19
+SRR11772358	SRP261138	GSM4546576: case1-lung1; Homo sapiens; RNA-Seq	lung	COVID-19	pool159	1	lung-COVID-19
+SRR11772359	SRP261138	GSM4546577: case1-lung2; Homo sapiens; RNA-Seq	lung	COVID-19	pool159	1	lung-COVID-19
+SRR11772360	SRP261138	GSM4546578: case1-lung3; Homo sapiens; RNA-Seq	lung	COVID-19	pool159	1	lung-COVID-19
+SRR11772361	SRP261138	GSM4546579: case1-lung4; Homo sapiens; RNA-Seq	lung	COVID-19	pool159	1	lung-COVID-19
+SRR11934385	SRP266130	GSM4592632: Adult human cardiomyocytes_Mock_1; Homo sapiens; RNA-Seq	Adult human cardiomyocytes	Non-Covid-19			Adult human cardiomyocytes-Non-Covid-19
+SRR11934386	SRP266130	GSM4592633: Adult human cardiomyocytes_Mock_2; Homo sapiens; RNA-Seq	Adult human cardiomyocytes	Non-Covid-19			Adult human cardiomyocytes-Non-Covid-19
+SRR11934387	SRP266130	GSM4592634: Adult human cardiomyocytes_Mock_3; Homo sapiens; RNA-Seq	Adult human cardiomyocytes	Non-Covid-19			Adult human cardiomyocytes-Non-Covid-19
+SRR11934388	SRP266130	GSM4592635: Adult human cardiomyocytes_SARS-CoV-2_1; Homo sapiens; RNA-Seq	Adult human cardiomyocytes	COVID-19			Adult human cardiomyocytes-COVID-19
+SRR11934389	SRP266130	GSM4592636: Adult human cardiomyocytes_SARS-CoV-2_2; Homo sapiens; RNA-Seq	Adult human cardiomyocytes	COVID-19			Adult human cardiomyocytes-COVID-19
+SRR11934390	SRP266130	GSM4592637: Adult human cardiomyocytes_SARS-CoV-2_3; Homo sapiens; RNA-Seq	Adult human cardiomyocytes	COVID-19			Adult human cardiomyocytes-COVID-19
+SRR11934379	SRP266130	GSM4592626: hESC-derived cardiomyocytes_Mock_1; Homo sapiens; RNA-Seq	hESC-derived cardiomyocytes	Non-Covid-19			hESC-derived cardiomyocytes-Non-Covid-19
+SRR11934380	SRP266130	GSM4592627: hESC-derived cardiomyocytes_Mock_2; Homo sapiens; RNA-Seq	hESC-derived cardiomyocytes	Non-Covid-19			hESC-derived cardiomyocytes-Non-Covid-19
+SRR11934381	SRP266130	GSM4592628: hESC-derived cardiomyocytes_Mock_3; Homo sapiens; RNA-Seq	hESC-derived cardiomyocytes	Non-Covid-19			hESC-derived cardiomyocytes-Non-Covid-19
+SRR11934382	SRP266130	GSM4592629: hESC-derived cardiomyocytes_SARS-CoV-2_1; Homo sapiens; RNA-Seq	hESC-derived cardiomyocytes	COVID-19			hESC-derived cardiomyocytes-COVID-19
+SRR11934383	SRP266130	GSM4592630: hESC-derived cardiomyocytes_SARS-CoV-2_2; Homo sapiens; RNA-Seq	hESC-derived cardiomyocytes	COVID-19			hESC-derived cardiomyocytes-COVID-19
+SRR11934384	SRP266130	GSM4592631: hESC-derived cardiomyocytes_SARS-CoV-2_3; Homo sapiens; RNA-Seq	hESC-derived cardiomyocytes	COVID-19			hESC-derived cardiomyocytes-COVID-19
+SRR11934391	SRP266130	GSM4592638: Macrophages_Mock_1; Homo sapiens; RNA-Seq	Macrophages	Non-Covid-19			Macrophages-Non-Covid-19
+SRR11934392	SRP266130	GSM4592639: Macrophages_Mock_2; Homo sapiens; RNA-Seq	Macrophages	Non-Covid-19			Macrophages-Non-Covid-19
+SRR11934393	SRP266130	GSM4592640: Macrophages_Mock_3; Homo sapiens; RNA-Seq	Macrophages	Non-Covid-19			Macrophages-Non-Covid-19
+SRR11934394	SRP266130	GSM4592641: Macrophages_SARS-CoV-2_1; Homo sapiens; RNA-Seq	Macrophages	COVID-19			Macrophages-COVID-19
+SRR11934395	SRP266130	GSM4592642: Macrophages_SARS-CoV-2_2; Homo sapiens; RNA-Seq	Macrophages	COVID-19			Macrophages-COVID-19
+SRR11934396	SRP266130	GSM4592643: Macrophages_SARS-CoV-2_3; Homo sapiens; RNA-Seq	Macrophages	COVID-19			Macrophages-COVID-19
+SRR13367150	SRP300614	GSM5006430: BB47: CTRL sample 47; Homo sapiens; RNA-Seq	Frontal cortex	Non-Covid-19			Frontal cortex-Non-Covid-19
+SRR13367151	SRP300614	GSM5006431: BB118: CTRL sample 118; Homo sapiens; RNA-Seq	Frontal cortex	Non-Covid-19			Frontal cortex-Non-Covid-19
+SRR13367152	SRP300614	GSM5006432: BB120: CTRL sample 120; Homo sapiens; RNA-Seq	Frontal cortex	Non-Covid-19			Frontal cortex-Non-Covid-19
+SRR13367153	SRP300614	GSM5006433: BB138: CTRL sample 138; Homo sapiens; RNA-Seq	Frontal cortex	Non-Covid-19			Frontal cortex-Non-Covid-19
+SRR13367154	SRP300614	GSM5006434: BB236: CTRL sample 236; Homo sapiens; RNA-Seq	Frontal cortex	Non-Covid-19			Frontal cortex-Non-Covid-19
+SRR13367155	SRP300614	GSM5006435: BB247: CTRL sample 247; Homo sapiens; RNA-Seq	Frontal cortex	Non-Covid-19			Frontal cortex-Non-Covid-19
+SRR13367156	SRP300614	GSM5006436: BB271: CTRL sample 271; Homo sapiens; RNA-Seq	Frontal cortex	Non-Covid-19			Frontal cortex-Non-Covid-19
+SRR13367157	SRP300614	GSM5006437: COV1: COVID sample 1; Homo sapiens; RNA-Seq	Frontal cortex	COVID-19			Frontal cortex-COVID-19
+SRR13367158	SRP300614	GSM5006438: COV3: COVID sample 3; Homo sapiens; RNA-Seq	Frontal cortex	COVID-19			Frontal cortex-COVID-19
+SRR13367159	SRP300614	GSM5006439: COV4: COVID sample 4; Homo sapiens; RNA-Seq	Frontal cortex	COVID-19			Frontal cortex-COVID-19
+SRR13367160	SRP300614	GSM5006440: COV5: COVID sample 5; Homo sapiens; RNA-Seq	Frontal cortex	COVID-19			Frontal cortex-COVID-19
+SRR13367161	SRP300614	GSM5006441: COV6: COVID sample 6; Homo sapiens; RNA-Seq	Frontal cortex	COVID-19			Frontal cortex-COVID-19
+SRR13367162	SRP300614	GSM5006442: COV7: COVID sample 7; Homo sapiens; RNA-Seq	Frontal cortex	COVID-19			Frontal cortex-COVID-19
+SRR13367163	SRP300614	GSM5006443: COV8: COVID sample 8; Homo sapiens; RNA-Seq	Frontal cortex	COVID-19			Frontal cortex-COVID-19
+SRR13367164	SRP300614	GSM5006444: COV9: COVID sample 9; Homo sapiens; RNA-Seq	Frontal cortex	COVID-19			Frontal cortex-COVID-19
+SRR13367165	SRP300614	GSM5006445: COV10: COVID sample 10; Homo sapiens; RNA-Seq	Frontal cortex	COVID-19			Frontal cortex-COVID-19
